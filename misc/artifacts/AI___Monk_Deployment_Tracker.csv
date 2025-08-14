@@ -1,0 +1,12 @@
+Task,Status,Category
+Load Phi model,Not Started,AI Core Setup
+Load LLaMA 3 model,Not Started,AI Core Setup
+Enable dropdown model selector in GUI,Not Started,AI Core Setup
+Create one-click launcher script or AppImage,Not Started,Packaging
+Enable markdown-style text output formatting,Not Started,Output Handling
+Ensure chat logs save cleanly to Notes folder,Not Started,Output Handling
+Build installable .deb or setup script,Not Started,Packaging
+Enable drag-and-drop or zip-based memory packs,Not Started,Expansion Support
+Enable .txt ingestion into models,Not Started,Expansion Support
+Set up Monk to receive emailed notes,Not Started,Monk Integration
+Auto-sync notes to folders on login,Not Started,Monk Integration
