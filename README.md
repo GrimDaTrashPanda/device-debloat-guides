@@ -12,6 +12,11 @@ Focus: practical, GUI-first instructions with repeatable results.
 
 > Files suffixed `.OLD` are superseded drafts kept for history — use the docs above instead.
 
+### macOS
+- **MacBook Air (2017, reusable for 2020 Intel & M1 models)**
+  - [`macbook_air_minimal_setup_checklist.md`](macos/macbook_air_minimal_setup_checklist.md) — quick checklist format
+  - [`minimal_mac_setup_kb.md`](macos/minimal_mac_setup_kb.md) — full local-only, no-iCloud setup guide
+
 ### Android
 - **Samsung Galaxy S24 FE**
   - Deployment Blueprint
