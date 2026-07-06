@@ -22,6 +22,7 @@ Focus: practical, GUI-first instructions with repeatable results.
   - One-Click Debloat Guides
   - Operation Report
   - ADB Debloat Exports
+- **OnePlus 9** — [`OnePlus9_Setup_Guide_v1.1.md`](android/oneplus-9/OnePlus9_Setup_Guide_v1.1.md) — first-time setup and OTA restoration guide
 
 ### iOS
 - **iPhone Minimal Setup**
